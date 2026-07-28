@@ -144,13 +144,6 @@ package.json
 
 ## 🚀 Installation & Setup
 
-### Clone Repository
-
-```bash
-git clone https://github.com/Akash2468jee/Stellar.git
-cd Stellar
-```
-
 > **Note:** Replace `Stellar` with your actual repository name if it's different.
 
 ### Install Dependencies
@@ -298,6 +291,6 @@ https://stellar.expert
 
 ## 👨‍💻 Developer
 
-**Akash Banerjee**
+**Biplov Paramanik**
 
 Built as part of the Stellar Developer Program Level 2 Challenge using Stellar, Soroban, React, and Vercel.
