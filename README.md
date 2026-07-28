@@ -10,8 +10,7 @@ Stellar Tip allows users to connect Stellar wallets, view balances, send XLM pay
 
 **Live Application:**
 
-https://vercel.com/akashhhh
-
+https://stellar-pay-one.vercel.app/
 ---
 
 ## 📹 Demo Video
@@ -234,7 +233,7 @@ GitHub Actions automatically:
 
 Workflow file:
 
-```text
+ ```text
 .github/workflows/ci.yml
 ```
 
@@ -275,6 +274,19 @@ Workflow file:
 
 ## 🔗 Useful Links
 
+Contract Verification Details
+
+Contract ID:
+CAXN7XD2AA3BPB2H3AESWIVBIQVERIXFTY3RLV4EKQJB5SAIHQMZVFFA
+
+Deployment Transaction Hash:
+fcea6922829e94ed7ef45ff7596ea0ecb58355fc94f041c2e6232cc5c50874eb
+
+Contract Explorer (Stellar Testnet):
+https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CAXN7XD2AA3BPB2H3AESWIVBIQVERIXFTY3RLV4EKQJB5SAIHQMZVFFA;;
+
+Please use the above Contract Explorer link to verify the deployed Soroban smart contract on the Stellar Testnet.
+
 ### Stellar Documentation
 
 https://developers.stellar.org/
@@ -293,4 +305,4 @@ https://stellar.expert
 
 **Biplov Paramanik**
 
-Built as part of the Stellar Developer Program Level 2 Challenge using Stellar, Soroban, React, and Vercel.
+Built as part of the Stellar Developer Program Challenge using Stellar, Soroban, React, and Vercel.
