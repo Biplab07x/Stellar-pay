@@ -23,7 +23,7 @@ https://youtu.be/Ia0MADcjq9s?si=aYNvkPQfgWiP49jz
 
 ## 📂 GitHub Repository
 
-https://github.com/Akash2468jee
+https://github.com/Biplab07x/Stellar-pay
 
 ---
 
