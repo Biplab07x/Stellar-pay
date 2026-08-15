@@ -1,4 +1,4 @@
-# Stellar Tip 🚀
+ Stellar Tip 🚀
 
 A Stellar & Soroban dApp built on the Stellar Testnet using React, Vite, Tailwind CSS, and Soroban Smart Contracts.
 
