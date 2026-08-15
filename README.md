@@ -137,9 +137,6 @@ src/
 
 README.md
 package.json
-```
-
----
 
 ## 🚀 Installation & Setup
 
